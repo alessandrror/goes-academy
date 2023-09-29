@@ -1,0 +1,26 @@
+{
+  "name": "mi-proyecto-npm",
+  "version": "0.0.0",
+  "description": "Proyecto didáctico para aprender sobre NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOES-Academy/AlessandroRivas-mi-proyecto-npm.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "NPM",
+    "CommonJS",
+    "ESModules"
+  ],
+  "author": "Alessandro Rivas (alessandro-rivas-dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GOES-Academy/AlessandroRivas-mi-proyecto-npm/issues"
+  },
+  "homepage": "https://github.com/GOES-Academy/AlessandroRivas-mi-proyecto-npm#readme"
+}
